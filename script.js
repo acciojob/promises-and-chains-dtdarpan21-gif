@@ -1,10 +1,10 @@
-//your JS code here. If required.
+//your JS code here. If reqhttps://www.svgrepo.com/show/345221/three-dots.svguired.
 https://www.svgrepo.com/show/345221/three-dots.svg
 
-const form = document.getElementById("voteform");
+const form = document.getElementById("voterForm");
 const ageInput = document.getElementById("age");
 const nameInput = document.getElementById("name");
-
+const submitbtn = document.getElementById("btn");
 form .addEventListener("submit",function(event){
 	event.preventDefault();
 
